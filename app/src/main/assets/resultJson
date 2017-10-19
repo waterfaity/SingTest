@@ -1,0 +1,51 @@
+{
+    "recordId": "11e7b46e8696b0d09ea5t137220158d",
+    "tokenId": "59e8029c332793000002f930",
+    "applicationId": "t137",
+    "audioUrl": "http://trial.files.cloud.ssapi.cn:8080/t137/11e7b46e8696b0d09ea5t137220158d",
+    "dtLastResponse": "2017-10-19 09:40:47:898",
+    "params": {
+        "app": {
+            "timestamp": "1508377244",
+            "sig": "e77f8980f6449cbe83efb90dbd91fe58180e0cd9",
+            "applicationId": "t137",
+            "userId": "guest",
+            "clientId": ""
+        },
+        "request": {
+            "coreType": "en.word.score",
+            "tokenId": "59e8029c332793000002f930",
+            "refText": "你好",
+            "rank": 100,
+            "attachAudioUrl": 1
+        },
+        "audio": {
+            "sampleRate": 16000,
+            "channel": 1,
+            "sampleBytes": 2,
+            "audioType": "ogg"
+        }
+    },
+    "eof": 1,
+    "refText": "你好",
+    "result": {
+        "forceout": 0,
+        "pron": 0,
+        "version": "0.0.80.2017.9.13.15:47:40",
+        "rank": 100,
+        "pretime": 114,
+        "delaytime": 36,
+        "overall": 0,
+        "info": {
+            "volume": 79,
+            "clip": 0,
+            "snr": 4.725944,
+            "tipId": 10006
+        },
+        "wavetime": 2350,
+        "systime": 2344,
+        "details": {},
+        "precision": 1,
+        "res": "eng.wrd.online.0.2"
+    }
+}
