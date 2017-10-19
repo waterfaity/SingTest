@@ -66,7 +66,6 @@ public class SingEvaluateManger {
                 singEngine.setBackVadTime(1000);//后置时间
                 //   构建引擎初始化参数
                 JSONObject cfg_init = null;
-                cfg_init = singEngine.buildInitJson("t137", "10mvggiih0x839emnwq0of83g28n2svg");
                 //   设置引擎初始化参数
                 singEngine.setNewCfg(cfg_init);
                 //   引擎初始化
